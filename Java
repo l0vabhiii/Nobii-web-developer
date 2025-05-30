@@ -1,0 +1,8 @@
+📁 Nobii-web-developer/
+├── index.html          ← Landing page
+├── style.css           ← Styling file
+├── script.js           ← JavaScript file (optional)
+├── assets/
+│   ├── nobii-logo.png  ← Logo image
+│   └── banner.jpg      ← Banner or poster image
+├── README.md           ← Project description
